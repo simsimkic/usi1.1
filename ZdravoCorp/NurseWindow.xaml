@@ -1,0 +1,14 @@
+﻿<Window x:Class="ZdravoCorp.NurseWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ZdravoCorp"
+        mc:Ignorable="d"
+        Title="Nurse" Height="590" Width="900" WindowStartupLocation="CenterScreen" Icon="/icon.png">
+    <Grid Background="#FFFFA7A7">
+        <Button x:Name="CRUDpatients" Content="CRUD patient" HorizontalAlignment="Left" Height="80" Margin="92,50,0,0" VerticalAlignment="Top" Width="750" Background="#FFF6D3D3" FontFamily="Trebuchet MS" Click="CRUDpatients_Click" />
+        <Button x:Name="PatientAdmission" Content="Admission of patients" HorizontalAlignment="Left" Height="80" Margin="92,150,0,0" VerticalAlignment="Top" Width="750" Background="#FFF6D3D3" FontFamily="Trebuchet MS" Click="PatientAdmission_Click"  />
+        <Button x:Name="Emergency" Content="Scheduling emergency examinations or surgeries" HorizontalAlignment="Left" Height="80" Margin="92,250,0,0" VerticalAlignment="Top" Width="750" Background="#FFF6D3D3" FontFamily="Trebuchet MS" Click="Emergency_Click"   />
+    </Grid>
+</Window>

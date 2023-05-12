@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 7,
+    "EarlierIllnesses": [
+      "bol u grlu",
+      "upala pluca"
+    ],
+    "Allergens": [
+      "polen",
+      "prasina",
+      "mleko"
+    ],
+    "Height": 80.0,
+    "Weight": 179.0
+  },
+  {
+    "Id": 1,
+    "EarlierIllnesses": [
+      "anamnesis",
+      "nist",
+      "nis",
+      "ambrozija",
+      "vanja",
+      "vanjaaa",
+      "upala pluca"
+    ],
+    "Allergens": [
+      "polen",
+      "nist",
+      "ambrozija"
+    ],
+    "Height": 187.5,
+    "Weight": 95.0
+  },
+  {
+    "Id": 5,
+    "EarlierIllnesses": [
+      "bol u grlu",
+      "migrena",
+      "visok pritisak"
+    ],
+    "Allergens": [
+      "polen",
+      "prasina"
+    ],
+    "Height": 190.5,
+    "Weight": 105.0
+  },
+  {
+    "Id": 6,
+    "EarlierIllnesses": [
+      "svakodnevne migrene",
+      "nistaa"
+    ],
+    "Allergens": [
+      "polen",
+      "ambrozija"
+    ],
+    "Height": 170.0,
+    "Weight": 70.0
+  }
+]

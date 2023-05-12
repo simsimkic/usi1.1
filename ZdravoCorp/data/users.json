@@ -1,0 +1,56 @@
+[
+  {
+    "Username": "vasilije",
+    "Password": "vasilije",
+    "Type": "manager",
+    "IsBlocked": false
+  },
+  {
+    "Username": "vanja",
+    "Password": "vanja",
+    "Type": "doctor",
+    "IsBlocked": false
+  },
+  {
+    "Username": "nikola",
+    "Password": "nikola",
+    "Type": "doctor",
+    "IsBlocked": false
+  },
+  {
+    "Username": "isidora",
+    "Password": "isidora",
+    "Type": "nurse",
+    "IsBlocked": false
+  },
+  {
+    "Username": "nina",
+    "Password": "nina",
+    "Type": "doctor",
+    "IsBlocked": false
+  },
+  {
+    "Username": "pera123",
+    "Password": "pera123",
+    "Type": "patient",
+    "IsBlocked": false
+  },
+  {
+    "Username": "milos",
+    "Password": "milos",
+    "Type": "patient",
+    "IsBlocked": false
+  },
+  {
+    "Username": "anica123",
+    "Password": "Ana123",
+    "Type": "patient",
+    "IsBlocked": false
+  },
+  {
+    "Username": "pera",
+    "Password": "pera",
+    "Type": "patient",
+    "IsBlocked": false
+  }
+]
